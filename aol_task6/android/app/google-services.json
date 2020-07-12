@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "212956407529",
+    "firebase_url": "https://aol-tasks.firebaseio.com",
+    "project_id": "aol-tasks",
+    "storage_bucket": "aol-tasks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212956407529:android:76363597c538523c29b278",
+        "android_client_info": {
+          "package_name": "com.siddhikadam.aoltask6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212956407529-ct52ae2t6o3svurhpfr4ujlp0s2m76i7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.siddhikadam.aoltask6",
+            "certificate_hash": "f32126143a91acbe6619a5904ebb54c9acbd4aa1"
+          }
+        },
+        {
+          "client_id": "212956407529-msucueirqfi1c461ueqg8bf32t47o91o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOlmvDF7IXS1pyrkYTXe-0fOKM2GCvXWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212956407529-msucueirqfi1c461ueqg8bf32t47o91o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
